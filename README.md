@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Animated Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF6AC1&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Kermit+The+Dev+🐸;Full+Stack+Developer+%7C+AI+Enthusiast;Building+Scalable+Web+Apps+with+AI+%F0%9F%A4%96;I+can+figure+out+your+wifi+password+%F0%9F%94%90)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF6AC1&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Kermit+The+Dev+🐸;Full+Stack+Developer+%7C+CybSec+Enthusiast;Building+Scalable+Web+Apps+with+AI+%F0%9F%A4%96;I+can+figure+out+your+wifi+password+%F0%9F%94%90)](https://git.io/typing-svg)
 
 </div>
 
