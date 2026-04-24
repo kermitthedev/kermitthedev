@@ -115,7 +115,7 @@ const kermitTheDev = {
 
 <div align="center">
 
-[![NetGuard](https://github-readme-stats.vercel.app/api/pin/?username=kermitthedev&repo=netguard&theme=synthwave&hide_border=true)](https://github.com/kermitthedev/netguard)
+[![Physics-Aware-Soil-Moisture-ML ](https://github-readme-stats.vercel.app/api/pin/?username=kermitthedev&repo=netguard&theme=synthwave&hide_border=true)]([https://github.com/kermitthedev/netguard](https://github.com/kermitthedev/Physics-Aware-Soil-Moisture-ML.git))
 [![QuantLeap](https://github-readme-stats.vercel.app/api/pin/?username=kermitthedev&repo=quantleap&theme=synthwave&hide_border=true)](https://github.com/kermitthedev/quantleap)
 
 </div>
